@@ -1,0 +1,108 @@
+.text {
+  color: white;
+}
+.font-black {
+  color: black;
+}
+.text a {
+  color: white;
+  text-decoration: none;
+}
+.green-btn {
+  background-color: #043927;
+  color: white;
+  text-decoration: none;
+margin: 10px 10px 10px 10px ;
+padding: 10px 10px 10px 70px;
+border-radius: 10px;
+}
+
+.green-btn:hover {
+  background-color: #0d8a60;
+  color: white;
+  text-decoration: none;
+}
+.brand {
+  font-size: 36px;
+  font-family: "Sofia";
+  font-size: 32px;
+}
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  background-image: url("pics/1111.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg1 {
+  background-image: url("pics/fruits1.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg2 {
+  background-image: url("pics/vegetables1.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.pic {
+  height: 300px;
+  width: cover;
+}
+.img-TY {
+  height: 3000px;
+  width: 100%;
+}
+.float-up {
+  margin-top: -140px;
+}
+.card1 {
+  margin-top: -100px;
+}
+.a {
+  float: right;
+  margin: 200px 150px 0 0;
+}
+.b {
+  float: right;
+  margin: 80px 150px 0 0;
+}
+.dbutton{ 
+  background-color: #043927;
+  color: white;
+  position: relative;
+  margin: -350px 0 0 350px;
+}
+
+.dbutton:hover {
+  background-color: #0d8a60;
+  color: white;
+
+}
+.single-feature-image {
+  width: 70%;
+  margin: 50px auto 20px;
+  display: block;
+  border: 3px solid #e7e7e7;
+}.single-feature-detail {
+  width: 70%;
+  margin: 50px auto 20px;
+  /* display: block;
+  border: 3px solid #e7e7e7; */
+}
+.white{
+  background-color: #0d8a60;
+}
+.white:hover{
+  background-color:white;
+}
